@@ -17,18 +17,6 @@ BugBuster was born from a group of developers looking to transition from softwar
 
 ---
 
-## Current Project 📈
-
-### Dental Clinic Management App 🦷
-
-Our first project is a comprehensive application tailored for dental clinics, helping streamline patient management, scheduling, and user interactions. The app is designed to save time and optimize operations for clinic owners and staff, with a focus on:
-- Appointment scheduling and reminders
-- Patient records and data security
-- User roles and permissions
-- Customizable clinic settings
-
----
-
 ## Future Vision 🌟
 
 This is just the beginning! We aim to:
